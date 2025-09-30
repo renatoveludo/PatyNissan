@@ -1,0 +1,12 @@
+:root {
+  --color-background: #FFFFFF;
+  --color-background2:  #333333;
+  --color-primary: #000000;
+  --color-secondary: #C3002F;
+  --color-text: #333333;
+  --color-white: #ffffff;
+  --color-black: black;
+  --font-family: 'Inter', sans-serif;
+  --spacing: 1rem;
+  --border-radius: 6px;
+}
